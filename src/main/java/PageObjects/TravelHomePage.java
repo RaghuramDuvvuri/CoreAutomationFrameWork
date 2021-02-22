@@ -47,7 +47,10 @@ public class TravelHomePage {
 		sfa.checkAail(origdest);
 	}
 	
-
+	public void displayintegrationgitmessage() {
+		sfa.dispmessage();
+		
+	}
 }
 
 

@@ -7,5 +7,5 @@ public interface SearchFlightAvailability {
 	//public void checkAail(String origin, String dest);
 	public void checkAail(HashMap<String, String> origdest);	
 	
-
+	public void dispmessage();
 }

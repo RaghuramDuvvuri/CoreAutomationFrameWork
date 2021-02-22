@@ -25,4 +25,11 @@ public class RoundTrip extends AbstractComponent implements SearchFlightAvailabi
 		
 	}
 
+	@Override
+	public void dispmessage() {
+		// TODO Auto-generated method stub
+		System.out.println("This is multitrip class message for to check git intergration with jenkins");
+		
+	}
+
 }
