@@ -16,4 +16,10 @@ public class Multitrip implements SearchFlightAvailability {
 		
 	}
 
+	@Override
+	public void dispmessage() {
+		System.out.println("This is multitrip class message for to check git intergration with jenkins");
+		
+	}
+
 }

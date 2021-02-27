@@ -60,7 +60,9 @@ public class Oneway extends AbstractComponent implements SearchFlightAvailabilit
 	} // void 
 		
 		
-	
+	public void dispmessage() {
+		System.out.println("hook established");
+	}
 
 
 }
